@@ -2,6 +2,11 @@
 
 Basic starter template for Vite + Vue 3 + TyepScript applications.
 
+```
+$ pnpm install
+$ pnpm run dev
+```
+
 Also includes:
 
 - `tailwindcss`
